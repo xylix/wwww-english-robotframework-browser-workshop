@@ -19,6 +19,9 @@ After the background and discussion we will do workshop excercises, demonstratin
 - 20 mins: discussion & wrapup (ups and downs, how Browser seemed, what could be improved)
 - 10 mins: Roadmap: Current and future plans of robotframework-browser
 
+## Execution command
+`robot examples/1-simple-steps/1-headfulness.robot`
+
 ## Repo map
 
 ```
