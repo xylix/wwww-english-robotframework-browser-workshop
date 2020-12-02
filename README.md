@@ -21,6 +21,7 @@ After the background and discussion we will do workshop excercises, demonstratin
 
 ## Repo map
 
+```
 Examples:
 examples/
 ├── 1-simple-steps
@@ -39,9 +40,10 @@ my-robots/
 ├── 1-browser-docs-robot
 │   ├── README.md
 │   └── docs-visitor.robot
-└── 2-home-assistant-robot
+└── 2-my-custom-robot
     ├── README.md
-    └── home-assistant.robot
+    └── robot.robot
+```
 
 ## Disclaimers
 
