@@ -19,3 +19,19 @@ After the background and discussion we will do workshop excercises, demonstratin
 - 1:30 Workshopping
 - 20 mins: discussion & wrapup (ups and downs, how Browser seemed, what could be improved)
 - 10 mins: Roadmap: Current and future plans of robotframework-browser
+
+## Example map
+
+Topics:
+
+
+You will learn:
+- Control of Pages, Contexts and Browsers
+- Implicit waits (How playwright’s implicit wait heuristics work?)
+- Implicit cleanup
+- Assertion syntax
+- Performance
+- Possibilities and interest for future features and plugins
+
+Examples:
+

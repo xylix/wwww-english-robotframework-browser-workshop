@@ -1,0 +1,5 @@
+playwright-log.txt
+output/
+venv
+.venv
+*.log
