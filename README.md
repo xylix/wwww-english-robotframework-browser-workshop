@@ -12,30 +12,36 @@ After the background and discussion we will do workshop excercises, demonstratin
 
 ## Agenda
 - 15 mins: Background: why Playwright, why Robotframework-browser was built
-- 15 mins: robotframework-browsers new features (shadow DOM, autocleanup, assertions)
-- 30 mins: Workshopping Pages, Contexts and Browsers
-- 45 mins: Building a website automation flow 
+- 45 mins: Workshopping through robotframework-browsers features
+- 45 mins: Building a robot that visits https://marketsquare.github.io/robotframework-browser/Browser.html
 - 15 mins: Break
 - 1:30 Workshopping
 - 20 mins: discussion & wrapup (ups and downs, how Browser seemed, what could be improved)
 - 10 mins: Roadmap: Current and future plans of robotframework-browser
 
-## Example map
+## Repo map
 
 Examples:
 examples/
 ├── 1-simple-steps
 │   ├── 1-headfulness.robot
 │   └── 2-target-interfaces.robot
-├── 2-features
-│   ├── 1-browser-context-page.robot
-│   ├── 2-selectors.robot
-│   ├── 3-assertions.robot
-│   ├── 4-waiting.robot
-│   ├── 5-meaning-of-life.robot
-│   ├── 6-intercepting.robot
-│   └── 7-enums.robot
+└── 2-features
+    ├── 1-browser-context-page.robot
+    ├── 2-selectors.robot
+    ├── 3-assertions.robot
+    ├── 4-waiting.robot
+    ├── 5-meaning-of-life.robot
+    ├── 6-intercepting.robot
+    └── 7-enums.robot
 
+my-robots/
+├── 1-browser-docs-robot
+│   ├── README.md
+│   └── docs-visitor.robot
+└── 2-home-assistant-robot
+    ├── README.md
+    └── home-assistant.robot
 
 ## Disclaimers
 
