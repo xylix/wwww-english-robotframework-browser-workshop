@@ -4,14 +4,12 @@ Library    Browser
 *** Test Cases ***
 Opening a Browser
     New Browser  headless=False
-    Sleep  2s
+
 Opening a Context
     New Context
-    Sleep  2s
 
 Opening a Page
     New Page
-    Sleep  2s
 
 Context with custom settings
     New Browser  webkit  headless=False
@@ -23,4 +21,6 @@ Autoclosing
     New Page
 
 Autoclosing test
-    Run Keyword And Expect Error    Get Title    ""
+    Run Keyword And Expect Error    
+    ...  Error: Tried to do playwright action 'title', but no open page.  
+    ...  Get Title

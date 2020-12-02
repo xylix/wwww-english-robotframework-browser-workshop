@@ -34,4 +34,20 @@ You will learn:
 - Possibilities and interest for future features and plugins
 
 Examples:
+examples/
+├── 1-simple-steps
+│   ├── 1-headfulness.robot
+│   └── 2-target-interfaces.robot
+├── 2-features
+│   ├── 1-browser-context-page.robot
+│   ├── 2-selectors.robot
+│   ├── 3-assertions.robot
+│   ├── 4-waiting.robot
+│   ├── 5-meaning-of-life.robot
+│   ├── 6-intercepting.robot
+│   └── 7-enums.robot
 
+
+## Disclaimers
+
+Examples adopted from Mikko Korpela's https://github.com/mkorpela/browsertraining 
