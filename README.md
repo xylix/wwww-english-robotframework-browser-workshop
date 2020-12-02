@@ -22,17 +22,6 @@ After the background and discussion we will do workshop excercises, demonstratin
 
 ## Example map
 
-Topics:
-
-
-You will learn:
-- Control of Pages, Contexts and Browsers
-- Implicit waits (How playwright’s implicit wait heuristics work?)
-- Implicit cleanup
-- Assertion syntax
-- Performance
-- Possibilities and interest for future features and plugins
-
 Examples:
 examples/
 ├── 1-simple-steps
