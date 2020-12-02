@@ -4,7 +4,7 @@ Library   Browser
 *** Test Cases ***
 Create TODO
     New Browser  headless=False
-    New Page  http://todomvc.com/examples/react/#/
+    New Page  http://todomvc.com/examples/react/#/    
     Add Todo
     Add Todo
     Add Todo

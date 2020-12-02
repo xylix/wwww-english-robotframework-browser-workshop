@@ -48,6 +48,15 @@ my-robots/
     └── robot.robot
 ```
 
+## Useful other libraries
+`robotframework-debugger`
+`robotframework-debuglibrary`
+`robotframework-pabot`
+
+Playwright CLI (Javascript / Python code recording, NO ROBOT SUPPORT yet, useful for finding selectors)
+https://github.com/microsoft/playwright-cli
+
+
 ## Disclaimers
 
 Examples adopted from Mikko Korpela's https://github.com/mkorpela/browsertraining 
