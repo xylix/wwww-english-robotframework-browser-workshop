@@ -10,15 +10,6 @@ After the background and discussion we will do workshop excercises, demonstratin
 - Optional: have your preferred code editor installed, and Robotframework LSP configured
 - Optional: Read through [browser-org](https://robotframework-browser.org/) in advance and write up your questions / thoughts.
 
-## Agenda
-- 15 mins: Background: why Playwright, why Robotframework-browser was built
-- 45 mins: Workshopping through robotframework-browsers features
-- 45 mins: Building a robot that visits https://marketsquare.github.io/robotframework-browser/Browser.html
-- 15 mins: Break
-- 1:30 Workshopping
-- 20 mins: discussion & wrapup (ups and downs, how Browser seemed, what could be improved)
-- 10 mins: Roadmap: Current and future plans of robotframework-browser
-
 ## Execution command
 `robot examples/1-simple-steps/1-headfulness.robot`
 
@@ -43,9 +34,9 @@ my-robots/
 ├── 1-browser-docs-robot
 │   ├── README.md
 │   └── docs-visitor.robot
-└── 2-my-custom-robot
+└── 2-todo-mvc-robot
     ├── README.md
-    └── robot.robot
+    └── todo.robot
 ```
 
 ## Useful other libraries
@@ -56,7 +47,15 @@ my-robots/
 Playwright CLI (Javascript / Python code recording, NO ROBOT SUPPORT yet, useful for finding selectors)
 https://github.com/microsoft/playwright-cli
 
+RCC (Command line tool for managing and running Robot and Python projects)
+https://github.com/robocorp/rcc
+ 
+
+## Info and help
+Robotframework Browser docs https://marketsquare.github.io/robotframework-browser/Browser.html
+Robot Framework slack https://rf-invite.herokuapp.com/
+RF forum https://forum.robotframework.org/c/libraries/browser
 
 ## Disclaimers
 
-Examples adopted from Mikko Korpela's https://github.com/mkorpela/browsertraining 
+Many examples adopted from Mikko Korpela's https://github.com/mkorpela/browsertraining 
